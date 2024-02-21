@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/10-1-REST/pom.xml" />
+        <option value="$PROJECT_DIR$/9-1-Login/pom.xml" />
+        <option value="$PROJECT_DIR$/11-1-Maksed/pom.xml" />
+        <option value="$PROJECT_DIR$/8-2-Get&amp;Post/8-2-Get-Post/pom.xml" />
+        <option value="$PROJECT_DIR$/9-2-Sessioon/pom.xml" />
+        <option value="$PROJECT_DIR$/7-1-EsimeneApp/pom.xml" />
+        <option value="$PROJECT_DIR$/10-2-HttpVastus/pom.xml" />
+        <option value="$PROJECT_DIR$/8-1-VarvilineNimi/pom.xml" />
+        <option value="$PROJECT_DIR$/11-2-MaksedOpenFeign/pom.xml" />
+        <option value="$PROJECT_DIR$/12-1-AndmeAllikasJDBC/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK" />
+</project>

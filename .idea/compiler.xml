@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="8-1-VarvilineNimi" />
+        <module name="11-2-MaksedOpenFeign" />
+        <module name="10-2-HttpVastus" />
+        <module name="11-1-Maksed" />
+        <module name="12-1-AndmeAllikasJDBC" />
+        <module name="10-1-REST" />
+        <module name="9-1-Login" />
+        <module name="7-1-EsimeneApp" />
+        <module name="8-2-Get-Post" />
+        <module name="9-2-Sessioon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="10-1-REST" target="1.5" />
+      <module name="10-2-HttpVastus" target="1.5" />
+      <module name="11-1-Maksed" target="1.5" />
+      <module name="11-2-MaksedOpenFeign" target="1.5" />
+      <module name="12-1-AndmeAllikasJDBC" target="1.5" />
+      <module name="7-1-EsimeneApp" target="1.5" />
+      <module name="8-1-VarvilineNimi" target="1.5" />
+      <module name="8-2-Get-Post" target="1.5" />
+      <module name="9-1-Login" target="1.5" />
+      <module name="9-2-Sessioon" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

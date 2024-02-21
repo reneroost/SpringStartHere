@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Koduleht</title>
+    </head>
+
+    <body>
+        <h1>Teretulemast
+            <span th:style="'color:' + ${värv}"
+                  th:text="${kasutajanimi}"></span>!
+        </h1>
+    </body>
+
+</html>

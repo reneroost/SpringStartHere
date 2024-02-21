@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ee" xmlns:th="http:/>/www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+</head>
+<body>
+<form action="/" method="post">
+    Kasutaja: <input type="text" name="kasutajanimi" /><br />
+    Parool: <input type="password" name="parool" /><br />
+    <button type="submit">Logi sisse</button>
+</form>
+<p th:text="${sonum}"></p>
+</body>
+</html>

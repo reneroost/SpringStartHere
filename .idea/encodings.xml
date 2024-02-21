@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/10-1-REST/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-1-REST/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-2-HttpVastus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-2-HttpVastus/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-1-Maksed/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-1-Maksed/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-2-MaksedOpenFeign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-2-MaksedOpenFeign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12-1-AndmeAllikasJDBC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12-1-AndmeAllikasJDBC/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7-1-EsimeneApp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7-1-EsimeneApp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8-1-VarvilineNimi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8-1-VarvilineNimi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8-2-Get&amp;Post/8-2-Get-Post/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8-2-Get&amp;Post/8-2-Get-Post/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9-1-Login/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9-1-Login/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9-2-Sessioon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9-2-Sessioon/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

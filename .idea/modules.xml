@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10-1-REST/10-1-REST.iml" filepath="$PROJECT_DIR$/10-1-REST/10-1-REST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-2-HttpVastus/10-2-HttpVastus.iml" filepath="$PROJECT_DIR$/10-2-HttpVastus/10-2-HttpVastus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-1-Maksed/11-1-Maksed.iml" filepath="$PROJECT_DIR$/11-1-Maksed/11-1-Maksed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-2-MaksedOpenFeign/11-2-MaksedOpenFeign.iml" filepath="$PROJECT_DIR$/11-2-MaksedOpenFeign/11-2-MaksedOpenFeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-1-AndmeAllikasJDBC/12-1-AndmeAllikasJDBC.iml" filepath="$PROJECT_DIR$/12-1-AndmeAllikasJDBC/12-1-AndmeAllikasJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-1-EsimeneApp/7-1-EsimeneApp.iml" filepath="$PROJECT_DIR$/7-1-EsimeneApp/7-1-EsimeneApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-1-VarvilineNimi/8-1-VarvilineNimi.iml" filepath="$PROJECT_DIR$/8-1-VarvilineNimi/8-1-VarvilineNimi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-2-Get&amp;Post/8-2-Get-Post/8-2-Get-Post.iml" filepath="$PROJECT_DIR$/8-2-Get&amp;Post/8-2-Get-Post/8-2-Get-Post.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-1-Login/9-1-Login.iml" filepath="$PROJECT_DIR$/9-1-Login/9-1-Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-2-Sessioon/9-2-Sessioon.iml" filepath="$PROJECT_DIR$/9-2-Sessioon/9-2-Sessioon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring Start Here.iml" filepath="$PROJECT_DIR$/.idea/Spring Start Here.iml" />
+    </modules>
+  </component>
+</project>

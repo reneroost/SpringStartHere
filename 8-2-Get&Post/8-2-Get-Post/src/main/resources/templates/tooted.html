@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Koduleht</title>
+    </head>
+
+    <body>
+        <h1>Tooted</h1>
+        <h2>Vaata tooteid</h2>
+
+        <table>
+            <tr>
+                <th>TOOTE NIMI</th>
+                <th>TOOTE HIND</th>
+            </tr>
+            <tr th:each="t: ${tooted}">
+                <td th:text="${t.nimi}"></td>
+                <td th:text="${t.hind}"></td>
+            </tr>
+        </table>
+
+        <h2>Lisa toode</h2>
+        <form action="/tooted" method="post">
+            Nimi <input type="text" name="nimi"><br />
+            Hind: <input type="number" step="any" name="hind"><br />
+            <button type="submit">Lisa toode</button>
+        </form>
+
+    </body>
+
+</html>
